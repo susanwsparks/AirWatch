@@ -1,0 +1,105 @@
+<plist version="1.0">
+  <dict>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>Enable</key>
+        <string>On</string>
+        <key>Defer</key>
+        <true />
+        <key>UserEntersMissingInfo</key>
+        <false />
+        <key>UseRecoveryKey</key>
+        <true />
+        <key>UseKeychain</key>
+        <false />
+        <key>ShowRecoveryKey</key>
+        <false />
+        <key>PayloadDisplayName</key>
+        <string>DiskEncryption</string>
+        <key>PayloadDescription</key>
+        <string>DiskEncryptionSettings</string>
+        <key>PayloadIdentifier</key>
+        <string>493530a6-2fa9-4646-bb44-a18917d4795d.DiskEncryption</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.MCX.FileVault2</string>
+        <key>PayloadUUID</key>
+        <string>fd729698-68de-4c6d-b2e0-084e069027df</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>ServerCapabilities</key>
+        <array>
+          <string>com.apple.mdm.per-user-connections</string>
+        </array>
+      </dict>
+      <dict>
+        <key>ForceRestart</key>
+        <true />
+        <key>StoreKey</key>
+        <true />
+        <key>PayloadDisplayName</key>
+        <string>DiskEncryption</string>
+        <key>PayloadDescription</key>
+        <string>DiskEncryptionSettings</string>
+        <key>PayloadIdentifier</key>
+        <string>493530a6-2fa9-4646-bb44-a18917d4795d.DiskEncryption</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.airwatch.DiskEncryption</string>
+        <key>PayloadUUID</key>
+        <string>ce551ce2-b0cd-4448-8743-d3d06f258fd5</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>ServerCapabilities</key>
+        <array>
+          <string>com.apple.mdm.per-user-connections</string>
+        </array>
+      </dict>
+      <dict>
+        <key>dontAllowFDEDisable</key>
+        <true />
+        <key>DestroyFVKeyOnStandby</key>
+        <false />
+        <key>PayloadDisplayName</key>
+        <string>DiskEncryption</string>
+        <key>PayloadDescription</key>
+        <string>DiskEncryptionSettings</string>
+        <key>PayloadIdentifier</key>
+        <string>493530a6-2fa9-4646-bb44-a18917d4795d.DiskEncryption</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.MCX</string>
+        <key>PayloadUUID</key>
+        <string>0370a561-70da-477c-a63e-8f0af19d6d23</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>ServerCapabilities</key>
+        <array>
+          <string>com.apple.mdm.per-user-connections</string>
+        </array>
+      </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string></string>
+    <key>PayloadDisplayName</key>
+    <string>MacOS - FileVault Key Redirection/V_2</string>
+    <key>PayloadIdentifier</key>
+    <string>493530a6-2fa9-4646-bb44-a18917d4795d</string>
+    <key>PayloadOrganization</key>
+    <string></string>
+    <key>PayloadRemovalDisallowed</key>
+    <true />
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>ad09c500-7730-4d10-bb78-082d5576db48</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadScope</key>
+    <string>Device</string>
+  </dict>
+</plist>

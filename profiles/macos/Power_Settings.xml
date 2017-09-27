@@ -1,0 +1,90 @@
+<plist version="1.0">
+  <dict>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>com.apple.EnergySaver.desktop.ACPower-ProfileNumber</key>
+        <integer>-1</integer>
+        <key>com.apple.EnergySaver.portable.ACPower-ProfileNumber</key>
+        <integer>-1</integer>
+        <key>com.apple.EnergySaver.portable.BatteryPower</key>
+        <integer>-1</integer>
+        <key>com.apple.EnergySaver.desktop.ACPower</key>
+        <dict>
+          <key>Automatic Restart On Power Loss</key>
+          <integer>0</integer>
+          <key>Disk Sleep Timer-boolean</key>
+          <true />
+          <key>Display Sleep Timer</key>
+          <integer>30</integer>
+          <key>Sleep On Power Button</key>
+          <integer>1</integer>
+          <key>System Sleep Timer</key>
+          <integer>0</integer>
+          <key>Wake On LAN</key>
+          <integer>1</integer>
+        </dict>
+        <key>com.apple.EnergySaver.portable.ACPower</key>
+        <dict>
+          <key>Automatic Restart On Power Loss</key>
+          <integer>0</integer>
+          <key>Disk Sleep Timer-boolean</key>
+          <true />
+          <key>Display Sleep Timer</key>
+          <integer>30</integer>
+          <key>System Sleep Timer</key>
+          <integer>0</integer>
+          <key>Wake On LAN</key>
+          <integer>1</integer>
+        </dict>
+        <key>com.apple.EnergySaver.portable.BatteryPower</key>
+        <dict>
+          <key>Automatic Restart On Power Loss</key>
+          <integer>0</integer>
+          <key>Disk Sleep Timer-boolean</key>
+          <true />
+          <key>Display Sleep Timer</key>
+          <integer>30</integer>
+          <key>System Sleep Timer</key>
+          <integer>0</integer>
+          <key>Wake On LAN</key>
+          <integer>1</integer>
+        </dict>
+        <key>com.apple.EnergySaver.desktop.Schedule</key>
+        <dict />
+        <key>PayloadDisplayName</key>
+        <string>Energy Saver</string>
+        <key>PayloadDescription</key>
+        <string>EnergySaver</string>
+        <key>PayloadIdentifier</key>
+        <string>1f21c5a2-0b83-4dd2-813f-ed10902ead99.Energy Saver</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.MCX</string>
+        <key>PayloadUUID</key>
+        <string>e1d8f03d-f681-4ded-9b17-a41b18fc92d4</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+      </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Power/Energy Saving Settings</string>
+    <key>PayloadDisplayName</key>
+    <string>MacOS - Power Settings/V_1</string>
+    <key>PayloadIdentifier</key>
+    <string>1f21c5a2-0b83-4dd2-813f-ed10902ead99</string>
+    <key>PayloadOrganization</key>
+    <string></string>
+    <key>PayloadRemovalDisallowed</key>
+    <true />
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>feb811df-237b-4215-98c6-d8aad47f37b4</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadScope</key>
+    <string>Device</string>
+  </dict>
+</plist>

@@ -1,0 +1,53 @@
+<plist version="1.0">
+  <dict>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>setglobalstate</key>
+        <string>on</string>
+        <key>setblockall</key>
+        <string>off</string>
+        <key>setallowsigned</key>
+        <string>on</string>
+        <key>setstealthmode</key>
+        <string>off</string>
+        <key>PayloadDisplayName</key>
+        <string>Firewall</string>
+        <key>PayloadDescription</key>
+        <string>FirewallSettings</string>
+        <key>PayloadIdentifier</key>
+        <string>16832dae-164c-4b51-a462-136771473d48.Firewall</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.airwatch.Firewall</string>
+        <key>PayloadUUID</key>
+        <string>be5c411a-da0f-44be-94f3-d51cad22f767</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>ServerCapabilities</key>
+        <array>
+          <string>com.apple.mdm.per-user-connections</string>
+        </array>
+      </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Set Proxy as a global setting to all devices.</string>
+    <key>PayloadDisplayName</key>
+    <string>MacOS - Global Proxy/V_4</string>
+    <key>PayloadIdentifier</key>
+    <string>16832dae-164c-4b51-a462-136771473d48</string>
+    <key>PayloadOrganization</key>
+    <string></string>
+    <key>PayloadRemovalDisallowed</key>
+    <false />
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>9539c1ba-45ab-4d03-8ad8-5196d8e9651f</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadScope</key>
+    <string>Device</string>
+  </dict>
+</plist>

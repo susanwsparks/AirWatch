@@ -1,0 +1,400 @@
+<plist version="1.0">
+  <dict>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>allowCloudDocumentSync</key>
+        <false />
+        <key>allowSpotlightInternetResults</key>
+        <true />
+        <key>allowCloudBTMM</key>
+        <true />
+        <key>allowCloudFMM</key>
+        <true />
+        <key>allowCloudBookmarks</key>
+        <true />
+        <key>allowCloudMail</key>
+        <true />
+        <key>allowCloudCalendar</key>
+        <true />
+        <key>allowCloudReminders</key>
+        <true />
+        <key>allowCloudAddressBook</key>
+        <true />
+        <key>allowCloudNotes</key>
+        <true />
+        <key>allowCloudKeychainSync</key>
+        <true />
+        <key>allowMusicService</key>
+        <false />
+        <key>PayloadDisplayName</key>
+        <string>iCloud</string>
+        <key>PayloadDescription</key>
+        <string>iCloud</string>
+        <key>PayloadIdentifier</key>
+        <string>af02a079-aefe-467f-9bc8-aba4190df084.iCloud</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.applicationaccess</string>
+        <key>PayloadUUID</key>
+        <string>a9164376-6a84-4e32-afcf-c12e7a7ade27</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>ServerCapabilities</key>
+        <array>
+          <string>com.apple.mdm.per-user-connections</string>
+        </array>
+      </dict>
+      <dict>
+        <key>DisableUsingiCloudPassword</key>
+        <false />
+        <key>PayloadDisplayName</key>
+        <string>iCloud Password</string>
+        <key>PayloadDescription</key>
+        <string>iCloud Password</string>
+        <key>PayloadIdentifier</key>
+        <string>af02a079-aefe-467f-9bc8-aba4190df084.iCloud Password</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.preferences.users</string>
+        <key>PayloadUUID</key>
+        <string>5ff5c2da-5088-4558-ac19-4003bdb4530d</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>ServerCapabilities</key>
+        <array>
+          <string>com.apple.mdm.per-user-connections</string>
+        </array>
+      </dict>
+      <dict>
+        <key>safariAllowAutoFill</key>
+        <false />
+        <key>PayloadDisplayName</key>
+        <string>Safari</string>
+        <key>PayloadDescription</key>
+        <string>Safari</string>
+        <key>PayloadIdentifier</key>
+        <string>af02a079-aefe-467f-9bc8-aba4190df084.Safari</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.MCX</string>
+        <key>PayloadUUID</key>
+        <string>53bb1b2f-bb47-41d2-a4c3-7b93e81055c8</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>ServerCapabilities</key>
+        <array>
+          <string>com.apple.mdm.per-user-connections</string>
+        </array>
+      </dict>
+      <dict>
+        <key>Device Access Allowed</key>
+        <true />
+        <key>PayloadDisplayName</key>
+        <string>Restrict Built-In Camera</string>
+        <key>PayloadDescription</key>
+        <string>Camera</string>
+        <key>PayloadIdentifier</key>
+        <string>af02a079-aefe-467f-9bc8-aba4190df084.Restrict Built-In Camera</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.coremediaio.support</string>
+        <key>PayloadUUID</key>
+        <string>8d0e813b-944d-4a42-8de5-5fbb6b0763d7</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>PayloadDisplayName</key>
+        <string>Desktop</string>
+        <key>PayloadDescription</key>
+        <string>Desktop</string>
+        <key>PayloadIdentifier</key>
+        <string>af02a079-aefe-467f-9bc8-aba4190df084.Desktop</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.desktop</string>
+        <key>PayloadUUID</key>
+        <string>58e6d49c-c939-4d99-976c-ca271e0651c1</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>SHKAllowedShareServices</key>
+        <array>
+          <string>com.apple.share.addtoiphoto</string>
+        </array>
+        <key>PayloadDisplayName</key>
+        <string>Share Services</string>
+        <key>PayloadDescription</key>
+        <string>ShareServices</string>
+        <key>PayloadIdentifier</key>
+        <string>af02a079-aefe-467f-9bc8-aba4190df084.Share Services</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.ShareKitHelper</string>
+        <key>PayloadUUID</key>
+        <string>f3b387e6-2e8a-452c-857e-1ca67af4b5ad</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>restrict-store-softwareupdate-only</key>
+        <false />
+        <key>restrict-store-disable-app-adoption</key>
+        <true />
+        <key>restrict-store-require-admin-to-install</key>
+        <true />
+        <key>PayloadDisplayName</key>
+        <string>App Store</string>
+        <key>PayloadDescription</key>
+        <string>AppStore</string>
+        <key>PayloadIdentifier</key>
+        <string>af02a079-aefe-467f-9bc8-aba4190df084.App Store</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.appstore</string>
+        <key>PayloadUUID</key>
+        <string>4bfbd7d7-6510-4bf9-a322-dc347502e3f0</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>GKFeatureGameCenterAllowed</key>
+        <false />
+        <key>PayloadDisplayName</key>
+        <string>Game Center</string>
+        <key>PayloadDescription</key>
+        <string>GameCenter</string>
+        <key>PayloadIdentifier</key>
+        <string>af02a079-aefe-467f-9bc8-aba4190df084.Game Center</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.gamed</string>
+        <key>PayloadUUID</key>
+        <string>d82e3bc6-d56a-42f7-8f42-80fa79fe88ba</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>ServerCapabilities</key>
+        <array>
+          <string>com.apple.mdm.per-user-connections</string>
+        </array>
+      </dict>
+      <dict>
+        <key>ProhibitBurn</key>
+        <false />
+        <key>PayloadDisplayName</key>
+        <string>Finder</string>
+        <key>PayloadDescription</key>
+        <string>Finder</string>
+        <key>PayloadIdentifier</key>
+        <string>af02a079-aefe-467f-9bc8-aba4190df084.Finder</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.finder</string>
+        <key>PayloadUUID</key>
+        <string>aa090fcf-2b4f-4c7d-9b7d-d4d71f73ef98</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>ServerCapabilities</key>
+        <array>
+          <string>com.apple.mdm.per-user-connections</string>
+        </array>
+      </dict>
+      <dict>
+        <key>BurnSupport</key>
+        <string>authenticated</string>
+        <key>PayloadDisplayName</key>
+        <string>DiscRecording</string>
+        <key>PayloadDescription</key>
+        <string>DiscRecording</string>
+        <key>PayloadIdentifier</key>
+        <string>af02a079-aefe-467f-9bc8-aba4190df084.DiscRecording</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.DiscRecording</string>
+        <key>PayloadUUID</key>
+        <string>c6c45859-96f8-4845-984f-11b7a2ea691f</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>DisableAirDrop</key>
+        <true />
+        <key>PayloadDisplayName</key>
+        <string>AirDrop</string>
+        <key>PayloadDescription</key>
+        <string>AirDrop</string>
+        <key>PayloadIdentifier</key>
+        <string>af02a079-aefe-467f-9bc8-aba4190df084.AirDrop</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.NetworkBrowser</string>
+        <key>PayloadUUID</key>
+        <string>b7757fa0-25b2-4b26-b5e8-57b4203e1f2b</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>ServerCapabilities</key>
+        <array>
+          <string>com.apple.mdm.per-user-connections</string>
+        </array>
+      </dict>
+      <dict>
+        <key>logout-eject</key>
+        <dict>
+          <key>all-media</key>
+          <string></string>
+        </dict>
+        <key>mount-controls</key>
+        <dict>
+          <key>blankcd</key>
+          <array />
+          <key>blankdvd</key>
+          <array />
+          <key>harddisk-internal</key>
+          <array />
+          <key>harddisk-external</key>
+          <array />
+          <key>disk-image</key>
+          <array />
+          <key>dvdram</key>
+          <array />
+          <key>cd</key>
+          <array />
+          <key>dvd</key>
+          <array />
+          <key>eject</key>
+          <array>
+            <string>True</string>
+          </array>
+        </dict>
+        <key>PayloadDisplayName</key>
+        <string>Media</string>
+        <key>PayloadDescription</key>
+        <string>Media</string>
+        <key>PayloadIdentifier</key>
+        <string>af02a079-aefe-467f-9bc8-aba4190df084.Media</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.systemuiserver</string>
+        <key>PayloadUUID</key>
+        <string>69986d14-8840-4ab2-9db8-d29e72745e3e</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>whiteListEnabled</key>
+        <false />
+        <key>PayloadDisplayName</key>
+        <string>Widgets</string>
+        <key>PayloadDescription</key>
+        <string>Widget.Plural</string>
+        <key>PayloadIdentifier</key>
+        <string>af02a079-aefe-467f-9bc8-aba4190df084.Widgets</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.dashboard</string>
+        <key>PayloadUUID</key>
+        <string>6f51932c-08fa-4d84-8908-0770b77bbf3f</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>whiteList</key>
+        <array>
+          <dict>
+            <key>appID</key>
+            <data>+t4MAAAAAMQAAAABAAAABgAAAAYAAAAPAAAAAgAAABZjb20uYWlyd2F0Y2gubWFjLmFnZW50AAAAAAAHAAAADgAAAAAAAAAKKoZIhvdjZAYBCQAAAAAAAAAAAAYAAAAGAAAADgAAAAEAAAAKKoZIhvdjZAYCBgAAAAAAAAAAAA4AAAAAAAAACiqGSIb3Y2QGAQ0AAAAAAAAAAAALAAAAAAAAAApzdWJqZWN0Lk9VAAAAAAABAAAAClMyWk1GR1FNOTMAAA==</data>
+            <key>appStore</key>
+            <false />
+            <key>bundleID</key>
+            <string>com.airwatch.mac.agent</string>
+            <key>displayName</key>
+            <string>AirWatch Agent</string>
+            <key>subApps</key>
+            <array>
+              <dict>
+                <key>appID</key>
+                <data>+t4MAAAAALgAAAABAAAABgAAAAYAAAAPAAAAAgAAAAxjb20uYWlyd2F0Y2gAAAAHAAAADgAAAAAAAAAKKoZIhvdjZAYBCQAAAAAAAAAAAAYAAAAGAAAADgAAAAEAAAAKKoZIhvdjZAYCBgAAAAAAAAAAAA4AAAAAAAAACiqGSIb3Y2QGAQ0AAAAAAAAAAAALAAAAAAAAAApzdWJqZWN0Lk9VAAAAAAABAAAAClMyWk1GR1FNOTMAAA==</data>
+                <key>bundleID</key>
+                <string>com.unknown.com.airwatch</string>
+                <key>displayName</key>
+                <string>com.airwatch</string>
+              </dict>
+            </array>
+          </dict>
+        </array>
+        <key>familyControlsEnabled</key>
+        <false />
+        <key>PayloadDisplayName</key>
+        <string>Applications</string>
+        <key>PayloadDescription</key>
+        <string>Application.Plural</string>
+        <key>PayloadIdentifier</key>
+        <string>af02a079-aefe-467f-9bc8-aba4190df084.Applications</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.applicationaccess.new</string>
+        <key>PayloadUUID</key>
+        <string>0cf3d75e-146c-48f0-8763-2c19d28a09f3</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>DisabledPreferencePanes</key>
+        <array>
+          <string>com.apple.preferences.internetaccounts</string>
+          <string>com.apple.preferences.icloud</string>
+        </array>
+        <key>RestrictSystemPreferences</key>
+        <true />
+        <key>PayloadDisplayName</key>
+        <string>Preferences</string>
+        <key>PayloadDescription</key>
+        <string>Preference.Plural</string>
+        <key>PayloadIdentifier</key>
+        <string>af02a079-aefe-467f-9bc8-aba4190df084.Preferences</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.systempreferences</string>
+        <key>PayloadUUID</key>
+        <string>4d981ff4-951f-48b3-8d59-55918546cb5c</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+      </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Restriction Baseline</string>
+    <key>PayloadDisplayName</key>
+    <string>MacOS - Restrictions/V_3</string>
+    <key>PayloadIdentifier</key>
+    <string>af02a079-aefe-467f-9bc8-aba4190df084</string>
+    <key>PayloadOrganization</key>
+    <string></string>
+    <key>PayloadRemovalDisallowed</key>
+    <true />
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>7b76b407-4ef8-416f-a920-3074b93f5185</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadScope</key>
+    <string>Device</string>
+  </dict>
+</plist>

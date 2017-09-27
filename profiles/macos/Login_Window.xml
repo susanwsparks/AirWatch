@@ -1,0 +1,212 @@
+<plist version="1.0">
+  <dict>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>SkipCloudSetup</key>
+        <true />
+        <key>PayloadDisplayName</key>
+        <string>Login Window</string>
+        <key>PayloadDescription</key>
+        <string>AppleIDSetup</string>
+        <key>PayloadIdentifier</key>
+        <string>c1a2e9e6-86a3-4808-ba17-d7e4d9681fbb.Login Window</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.SetupAssistant.managed</string>
+        <key>PayloadUUID</key>
+        <string>12be943d-857a-4f64-97a8-518b0b365106</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>ServerCapabilities</key>
+        <array>
+          <string>com.apple.mdm.per-user-connections</string>
+        </array>
+      </dict>
+      <dict>
+        <key>logoutscripts</key>
+        <array>
+          <dict />
+        </array>
+        <key>loginscripts</key>
+        <array>
+          <dict />
+        </array>
+        <key>PayloadEnabled</key>
+        <string>true</string>
+        <key>skipLoginHook</key>
+        <false />
+        <key>skipLogoutHook</key>
+        <false />
+        <key>PayloadDisplayName</key>
+        <string>Login Window: Scripts</string>
+        <key>PayloadDescription</key>
+        <string>LoginWindowScripts</string>
+        <key>PayloadIdentifier</key>
+        <string>c1a2e9e6-86a3-4808-ba17-d7e4d9681fbb.Login Window: Scripts</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.mcxloginscripts</string>
+        <key>PayloadUUID</key>
+        <string>249bade7-33bd-4cb0-a571-67fd88a36df4</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>PayloadEnabled</key>
+        <string>true</string>
+        <key>DisableGuestAccount</key>
+        <true />
+        <key>EnableGuestAccount</key>
+        <false />
+        <key>SleepDisabled</key>
+        <false />
+        <key>PayloadDisplayName</key>
+        <string>Login Window: MCX Preferences</string>
+        <key>PayloadDescription</key>
+        <string>MCXPreferences</string>
+        <key>PayloadIdentifier</key>
+        <string>c1a2e9e6-86a3-4808-ba17-d7e4d9681fbb.Login Window: MCX Preferences</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.MCX</string>
+        <key>PayloadUUID</key>
+        <string>c65b250f-91ce-4fd4-884e-6b056c27a363</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>PayloadEnabled</key>
+        <string>true</string>
+        <key>loginWindowModulePath</key>
+        <string>/System/Library/Screen Savers/Flurry.saver</string>
+        <key>moduleName</key>
+        <string>Flurry</string>
+        <key>idleTime</key>
+        <integer>600</integer>
+        <key>loginWindowIdleTime</key>
+        <integer>600</integer>
+        <key>PayloadDisplayName</key>
+        <string>Login Window: Screen Saver Preferences</string>
+        <key>PayloadDescription</key>
+        <string>SaverPreferences</string>
+        <key>PayloadIdentifier</key>
+        <string>c1a2e9e6-86a3-4808-ba17-d7e4d9681fbb.Login Window: Screen Saver Preferences</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.screensaver</string>
+        <key>PayloadUUID</key>
+        <string>c8f3f717-0a56-4cb9-90b7-5d5071f6dd55</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>PayloadEnabled</key>
+        <string>true</string>
+        <key>MultipleSessionEnabled</key>
+        <true />
+        <key>PayloadDisplayName</key>
+        <string>Login Window: Global Preferences</string>
+        <key>PayloadDescription</key>
+        <string>GlobalPreferences</string>
+        <key>PayloadIdentifier</key>
+        <string>c1a2e9e6-86a3-4808-ba17-d7e4d9681fbb.Login Window: Global Preferences</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>.GlobalPreferences</string>
+        <key>PayloadUUID</key>
+        <string>d8da0666-f287-448b-aeb8-bf4c3b3f2a2d</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+      </dict>
+      <dict>
+        <key>AdminHostInfo</key>
+        <string>HostName</string>
+        <key>PayloadEnabled</key>
+        <string>true</string>
+        <key>AdminMayDisableMCX</key>
+        <false />
+        <key>AlwaysShowWorkgroupDialog</key>
+        <false />
+        <key>CombineUserWorkgroups</key>
+        <true />
+        <key>DisableConsoleAccess</key>
+        <false />
+        <key>EnableExternalAccounts</key>
+        <false />
+        <key>FlattenUserWorkgroups</key>
+        <false />
+        <key>HideAdminUsers</key>
+        <true />
+        <key>HideLocalUsers</key>
+        <true />
+        <key>HideMobileAccounts</key>
+        <true />
+        <key>IncludeNetworkUser</key>
+        <false />
+        <key>LocalUserLoginEnabled</key>
+        <true />
+        <key>LocalUsersHaveWorkgroups</key>
+        <false />
+        <key>RestartDisabled</key>
+        <false />
+        <key>SHOWFULLNAME</key>
+        <true />
+        <key>SHOWOTHERUSERS_MANAGED</key>
+        <false />
+        <key>ShutDownDisabled</key>
+        <false />
+        <key>SleepDisabled</key>
+        <false />
+        <key>UseComputerNameForComputerRecordName</key>
+        <true />
+        <key>com.apple.login.mcx.DisableAutoLoginClient</key>
+        <true />
+        <key>LoginwindowText</key>
+        <string>- You are accessing a U.S. Government information system, which includes (1) this computer, (2) this computer network, (3) all computers connected to this network and (4) all devices and storage media attached to this network or to a computer on this network.  This information system is provided for U.S. Government-authorized use only.
+- Unauthorized or improper use or access of this system may result in disciplinary action, as well as civil and criminal penalties.
+- By using this information system, you understand and consent to the following:
+-- You have no reasonable expectation of privacy when you use this information system: this includes any communications or data transiting, stored on, originated from or directed to this information system. At any time, and for any lawful government purpose, the government may monitor, intercept, search and seize any communication or data transiting, stored on, originated from or directed to or from this information system.
+-- The government may disclose or use any communications or data transiting, stored on, originated from or directed to or from this information system for any lawful government purpose.
+-- You are NOT authorized to process classified information on this information system.</string>
+        <key>PayloadDisplayName</key>
+        <string>Login Window</string>
+        <key>PayloadDescription</key>
+        <string>LoginWindow</string>
+        <key>PayloadIdentifier</key>
+        <string>c1a2e9e6-86a3-4808-ba17-d7e4d9681fbb.Login Window</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.loginwindow</string>
+        <key>PayloadUUID</key>
+        <string>ba1d1691-b341-427a-9111-529b6f0e7c10</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+      </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string></string>
+    <key>PayloadDisplayName</key>
+    <string>MacOS - Login Window/V_2</string>
+    <key>PayloadIdentifier</key>
+    <string>c1a2e9e6-86a3-4808-ba17-d7e4d9681fbb</string>
+    <key>PayloadOrganization</key>
+    <string></string>
+    <key>PayloadRemovalDisallowed</key>
+    <true />
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>12e28b89-e3f9-4aa0-b5f5-56277ce0d4fe</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadScope</key>
+    <string>Device</string>
+  </dict>
+</plist>
